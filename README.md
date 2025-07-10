@@ -11,3 +11,5 @@ This conversation flow has been developed in alignment with the official flow di
 •	Positive/negative response handling
 •	Graceful exits and re-engagement options
 The script and flowchart together demonstrate how a well-designed AI assistant can improve the user experience, simplify complex queries, and drive engagement in educational admissions.
+
+![WhatsApp Image 2025-07-11 at 01 50 35_5b98f749](https://github.com/user-attachments/assets/88ecd1dd-d335-4c13-ad2b-2b73f0f89066)
